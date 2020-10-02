@@ -1,0 +1,18 @@
+{
+  "name": "ddBlog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-strapi": "^0.2.0",
+    "axios": "^0.20.0",
+    "dayjs": "^1.9.1",
+    "element-ui": "^2.13.2",
+    "gridsome": "^0.7.0",
+    "markdown-it": "^11.0.1",
+    "vuex": "^3.5.1"
+  }
+}
